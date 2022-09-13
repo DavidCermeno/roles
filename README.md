@@ -8,8 +8,8 @@ Para este proyecto hay que tener en cuenta lo siguiente.
 - [Tener composer instalado].
 - [Tener una versión de laravel 7+].
 - [Usar Xampp o Wampp para trabajar de manera local].
-- [Al registrar en la interfaz de Registro, realizar el registro con el correo 
-  "admin@admin.   com" ya que, este sería el Super Administrador.]
+- [Al registrarse por primera vez en la interfaz de Registro, realizar el registro con el
+  correo "admin@admin.   com" ya que, este sería el Super Administrador.]
 
 Para iniciar el proyecto tenemos que:
 - [Crear una base de datos en phpMyAdmin con el mismo nombre que .env].
